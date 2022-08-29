@@ -18,3 +18,8 @@ As the result we got different accuaracies base on the feature selection methods
 
 ## Process in detail _ part 2 _ Numerical input , Category output
 In this section the process and the steps are almost the same as Cat2Cat but this time the feature selection methods are different. feature Selection method is using Anova and Mutual information feature selection. 
+
+
+## Process of data leakage 
+
+In a very simple language, when we use test set to train the model or even preprocess the data, data leakage is happening. As part of my experience I have checked the wrong way and the correct way of prediction.
